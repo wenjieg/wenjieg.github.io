@@ -4,7 +4,7 @@ name: Wenjie Gong
 description: PhD student in physics at MIT
 url: https://wenjieg.github.io
 baseurl: ""
-repository: wenjieg/wenjiegong.github.io
+repository: wenjieg/wenjieg.github.io
 plugins: []
 exclude:
   - AGENTS.md

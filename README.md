@@ -24,8 +24,6 @@ To restore automatic INSPIRE updates, remove the Selected Publications section a
 
 The intended public homepage is `https://wenjieg.github.io/`. The homepage includes a descriptive search title and summary, an absolute canonical URL, ProfilePage/Person structured data, and social preview metadata. All selected publications are in the HTML, readable without JavaScript. `robots.txt` permits crawling and advertises `sitemap.xml`, which lists the homepage. The empty Blog page uses `noindex, follow`; remove `noindex` and add its URL to the sitemap when it has real content.
 
-The current Git remote is `wenjieg/wenjiegong.github.io`. To publish at `https://wenjieg.github.io/`, rename the repository to `wenjieg.github.io` under your existing `wenjieg` account, update the local Git remote and the `repository` field in `_config.yml` to match, and configure Settings → Pages. The repository has not been renamed or deployed by these local SEO edits. See [GitHub Pages URL rules](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages).
-
 After publishing:
 
 1. Confirm the homepage, `/robots.txt`, `/sitemap.xml`, and `/wenjie.jpeg` return HTTP 200 at the intended domain.
