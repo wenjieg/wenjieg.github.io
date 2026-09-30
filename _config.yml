@@ -1,7 +1,7 @@
 # Only the homepage and Blog are published; the original theme sources remain archived.
 title: Wenjie Gong
 name: Wenjie Gong
-description: PhD student in physics at MIT
+description: "I am a 5th year PhD student in physics at MIT, advised by Prof. Soonwon Choi. I am interested in designing practical protocols for the control and characterization of quantum many-body systems."
 url: https://wenjieg.github.io
 baseurl: ""
 repository: wenjieg/wenjieg.github.io
